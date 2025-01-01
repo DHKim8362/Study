@@ -25,5 +25,14 @@
       PATH에 %JAVA_HOME%\bin을 추가하여 명령어가 잘 실행되도록 설정합니다.
    ```
    설정완료
+   ```bath
+   java -version
+   ```
+   실행결과
+   ```bath
+   java version "23.0.1" 2024-10-15
+   Java(TM) SE Runtime Environment (build 23.0.1+11-39)
+   Java HotSpot(TM) 64-Bit Server VM (build 23.0.1+11-39, mixed mode, sharing)
+   ```
    
    
