@@ -42,6 +42,8 @@
    javac -version
    ```
    결과
+
+6. Code Lens 설정 해제
    ```bath
    javac 23.0.1
    ```
