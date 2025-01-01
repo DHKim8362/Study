@@ -14,7 +14,13 @@
    java -version
    ```
    배치 파일이 아니라고함
-   
+4. 환경변수 설정
+   ```
+   JAVA_HOME 변수 추가:
+      JAVA_HOME 값을 C:\Program Files\Java\jdk-23로 설정합니다.
+   PATH 변수 수정:
+      PATH에 %JAVA_HOME%\bin을 추가하여 명령어가 잘 실행되도록 설정합니다.
+   ```
    
    
    
